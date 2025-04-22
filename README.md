@@ -9,6 +9,12 @@ Small geometry library for Java and Kotlin. Contains useful basic utilities that
 to support data exchange between client (such as Android) and Restful api server with [GeoJSON](http://geojson.org/)
 Spec
 
+## Publication
+
+`./gradlew geok:build`
+`./gradlew geok:publish`
+
+
 ## Download
 
 <details>

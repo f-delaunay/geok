@@ -128,3 +128,7 @@ gradle-app.setting
 local.properties
 secret.properties
 *.pgp
+.DS_Store
+.kotlin/
+kotlin-js-store/
+node_modules/
